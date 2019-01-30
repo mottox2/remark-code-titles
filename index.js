@@ -1,4 +1,5 @@
 const visit = require('unist-util-visit');
+const qs = require('qs')
 
 module.exports = function(options) {
   return (tree) => visit(tree, 'code', (node, index) => {
