@@ -2,7 +2,7 @@
 
 inspired by [gatsby-remark-code-titles](https://github.com/DSchau/gatsby-remark-code-titles)
 
-## Example
+## Usage in Markdown
 
 from:
 
