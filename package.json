@@ -1,0 +1,11 @@
+{
+  "name": "remark-code-title",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mottox2/remark-code-title.git",
+  "author": "mottox2 <y.mottox2@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "unist-util-visit": "^1.4.0"
+  }
+}
