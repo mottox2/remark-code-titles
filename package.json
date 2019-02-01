@@ -6,7 +6,6 @@
   "author": "mottox2 <y.mottox2@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "qs": "^6.6.0",
     "unist-util-visit": "^1.4.0"
   }
 }
