@@ -8,7 +8,7 @@
 
 We have the following file, `hello.md`:
 
-~~~
+~~~markdown
 # Hello World
 
 ```js:hello.js
@@ -37,7 +37,7 @@ const result = unified()
 
 Now, running `node hello.js` yields:
 
-```
+```html
 <h1>Hello World</h1>
 <div class="remark-code-title">hello.js</div>
 <pre><code class="language-js">console.log('js')
