@@ -1,8 +1,8 @@
 {
-  "name": "remark-code-title",
+  "name": "remark-code-titles",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/mottox2/remark-code-title.git",
+  "repository": "https://github.com/mottox2/remark-code-titles.git",
   "author": "mottox2 <y.mottox2@gmail.com>",
   "license": "MIT",
   "dependencies": {

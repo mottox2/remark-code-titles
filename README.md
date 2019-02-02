@@ -1,6 +1,6 @@
-# remark-code-title
+# remark-code-titles
 
-inspired by [gatsby-remark-code-titles](https://github.com/DSchau/gatsby-remark-code-titles)
+[Remark plugin](https://github.com/remarkjs/remark) to add code title inspired by [gatsby-remark-code-titles](https://github.com/DSchau/gatsby-remark-code-titles)
 
 ## Usage in Markdown
 
