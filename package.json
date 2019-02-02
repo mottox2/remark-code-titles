@@ -1,6 +1,6 @@
 {
   "name": "remark-code-titles",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "main": "index.js",
   "repository": "https://github.com/mottox2/remark-code-titles.git",
   "author": "mottox2 <y.mottox2@gmail.com>",
