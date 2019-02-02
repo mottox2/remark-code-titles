@@ -1,6 +1,8 @@
 # remark-code-titles
 
-[Remark plugin](https://github.com/remarkjs/remark) to add code title inspired by [gatsby-remark-code-titles](https://github.com/DSchau/gatsby-remark-code-titles)
+[![npm version](https://badge.fury.io/js/remark-code-titles.svg)](https://badge.fury.io/js/remark-code-titles)
+
+[Remark](https://github.com/remarkjs/remark) plugin to add code title inspired by [gatsby-remark-code-titles](https://github.com/DSchau/gatsby-remark-code-titles)
 
 ## Usage in Markdown
 
