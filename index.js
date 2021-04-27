@@ -2,7 +2,14 @@ const visit = require('unist-util-visit');
 
 module.exports = function(options) {
   return (tree) => visit(tree, 'code', (node, index) => {
-    const [language, title] = (node.lang || '').split(':');
+    let language = '', title = '';
+    let nodeLang = (node.lang || '');
+    
+    if (nodeLang.includes(':')) {
+      language = nodeLang.slice(0, nodeLang.search(':'));
+      title = nodeLang.slice(nodeLang.search(':') + 1, nodeLang.length);
+    }
+
     if (!title) {
       return;
     }
